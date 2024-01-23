@@ -1,0 +1,25 @@
+article {
+    margin: 10px
+}
+
+figure {
+    float: left;
+}
+
+img {
+    width: 300px; 
+    height: 168px; 
+    padding-left: 10px;
+}
+
+a href {
+    color: green
+}
+
+/*h2 {*/
+/*    font-size: 30px;*/
+/*}*/
+
+.titlu {
+    color: blue;
+}
